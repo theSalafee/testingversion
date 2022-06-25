@@ -11,5 +11,4 @@ root.render(
   </React.StrictMode>
 );
 
-// Naasir sucks as a developer.
 reportWebVitals();
